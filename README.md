@@ -1,7 +1,7 @@
 # Michael Francoo Fredy
 
 **Software Engineer — Full-Stack Web, Mobile (Flutter) & Applied AI**  
-Tanzania (EAT, UTC+3) · Open to Remote, Hybrid & Full-Time Engineering Opportunities
+Mbeya, Tanzania (EAT, UTC+3) · Open to Remote, Hybrid & Full-Time Engineering Opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-michaelfrancoo.me-1A1A1A?style=flat-square)](https://michaelfrancoo.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-francoomichaeltech-0A66C2?style=flat-square)](https://linkedin.com/in/francoomichaeltech)
