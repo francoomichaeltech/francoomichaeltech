@@ -1,4 +1,4 @@
-# Michael Francoo Fredy
+# Michael Francoo
 
 **Software Engineer — Full-Stack Web, Mobile (Flutter) & Applied AI**  
 Mbeya, Tanzania (EAT, UTC+3) · Open to Remote, Hybrid & Full-Time Engineering Opportunities
